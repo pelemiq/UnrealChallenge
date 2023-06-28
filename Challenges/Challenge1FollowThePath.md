@@ -15,5 +15,14 @@ Your mission is to get it working, on this map, if you play the level, you have 
 
 To check if your solution is working, simply play the game, and click on the left side navigation points, the character should not move, as those points are not connected to the starting one.
 
+<details>
+  <summary>How do I know if two points are directly connected?</summary>
+  
+  For these example, we are using a [directed graph](https://en.wikipedia.org/wiki/Directed_graph) , meaning that  from a specific node, we can only go to the nodes on its Connections list.
+
+  So, From A node, we can only directly go to B node if B is present inside A´s Connection list.
+  
+</details>
+
 
 ## Problem 1: Calculating the path
