@@ -26,3 +26,8 @@ To check if your solution is working, simply play the game, and click on the lef
 
 
 ## Problem 1: Calculating the path
+
+
+
+### Credits:
+[Azgaar´s fantasy map generator](https://azgaar.github.io/Fantasy-Map-Generator/)
